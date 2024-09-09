@@ -1,6 +1,6 @@
 # Imersão Dev - Spotify Clone
 
-Este projeto foi criado durante o evento Next Level Week (NLW) utilizando as stacks de HTML, CSS e JavaScript.
+Este projeto foi criado durante o evento Imersão Dev - Alura utilizando as stacks de HTML, CSS e JavaScript.
 
 ## Descrição
 
